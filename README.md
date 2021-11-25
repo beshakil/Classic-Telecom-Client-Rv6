@@ -24,5 +24,6 @@ Password: 123456
 - Stripe Payment Gateway
 
 ## I have shared the Home page UI below-
+<img src="https://www.awesomescreenshot.com/image/17420394?key=cfee1864802ad996de3528426b2567ad"></img>
 ![Classic Telecom](https://www.awesomescreenshot.com/image/17420394?key=cfee1864802ad996de3528426b2567ad)
 

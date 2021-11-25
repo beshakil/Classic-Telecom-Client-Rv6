@@ -1,5 +1,6 @@
 # Classic Telecom - Webapp
 ### [Live Site](https://classic-telecom.web.app/)
+### [Server Site](https://fast-cliffs-19766.herokuapp.com/)
 
 ## Hello!
 Today I have created a website telecom which name is Classic Telecom. To complete this website I have used some technologies and I am going to say about the website and building technology for UI, Functionality. For the Authentication setup, I have used the firebase system. As this is a health-related website, so I try to handle cover telecom-related services.
@@ -24,8 +25,5 @@ Password: 123456
 - Stripe Payment Gateway
 
 ## I have shared the Home page UI below-
-<img src="https://www.awesomescreenshot.com/image/17420394?key=cfee1864802ad996de3528426b2567ad"></img>
-![Classic Telecom](https://www.awesomescreenshot.com/image/17420394?key=cfee1864802ad996de3528426b2567ad)
 
 ![Alt text](relative/path/to/../../../ReactApp.png?raw=true "Title")
-

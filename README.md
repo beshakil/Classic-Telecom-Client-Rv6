@@ -13,7 +13,7 @@ Password: 123456
 3. Having an admin panel allows you to easily control everything from the website's dashboard.
 4. Built app with React while managing State through Asynchronous Actions using Firebase Authentication & payment gateway. This web app is user-friendly as it is responsive.
 
-## I have also used some technologies for creating the website. Some of them are--
+## I have also used some technologies for creating the website.--
 - For Frontend UI I have used React js technology
 - Tailwind CSS for framework & Custom CSS3
 - React Router Dom for Routing
@@ -26,4 +26,6 @@ Password: 123456
 ## I have shared the Home page UI below-
 <img src="https://www.awesomescreenshot.com/image/17420394?key=cfee1864802ad996de3528426b2567ad"></img>
 ![Classic Telecom](https://www.awesomescreenshot.com/image/17420394?key=cfee1864802ad996de3528426b2567ad)
+
+![Alt text](relative/path/to/../../../ReactApp.png?raw=true "Title")
 
